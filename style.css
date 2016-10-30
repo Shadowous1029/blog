@@ -1,0 +1,34 @@
+body { 
+	margin: 0;
+	font-family: helvetica;
+}
+
+.content {
+	   margin: 16px;
+	   background-color: #301014;
+	   color: #79B791;
+}	   
+
+.navbar {
+	background-color: #A0ACAD;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.header li {
+	float: left;
+}
+
+.header li a {
+	display: block;
+	color: #53125;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+	
